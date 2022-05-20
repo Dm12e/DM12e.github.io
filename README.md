@@ -1,3 +1,2 @@
 # DM12e.github.io
-Uhhhhh idk
-Damm github is slow
+I did something and it worked :)
