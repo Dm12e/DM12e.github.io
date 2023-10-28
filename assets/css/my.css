@@ -1,0 +1,10 @@
+body {
+  background-image: linear-gradient(#bf00ff, #000000);
+  margin: 0;
+  /*cursor: cell;*/
+}
+
+p a {
+  /*text-decoration: blink;*/
+}
+
